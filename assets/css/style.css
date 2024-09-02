@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Young+Serif&display=swap');
+
+body {
+  background-color: #f3e5d8;
+  font-family: "Outfit", "Young Serif", sans-serif;
+  font-size: 16px;
+}
+.wrapper{
+  max-width: 656px;
+  background-color: #FFFFFF;
+  padding: 40px;
+  border-radius: 24px;
+  margin: 0px auto;
+}
+.img{
+  width: 100%;
+ 
+}
+h1{
+  font-size: 40px;
+  font-family: serif;
+}
+.prep
+{
+  height: 172PX;
+  padding: 24px;
+  margin: 2rem 0PX;
+  background-color: #fff7fb;
+  border-radius: 12px;
+}
+h2{
+  font-size: 20px;
+  color:#7A284E;
+  padding-left: 24px;
+}
+.bold{
+font-weight: bold;
+}
+hr{
+color: #e8e5e3ab;
+}
+.ingred{
+
+  padding: 1.5rem 0px;
+}
+li{
+  padding: 8px;
+}
+table{
+  border-collapse: collapse;
+  width: 100%;
+}
+tr{
+  border-bottom: 1px solid #E3DDD7;
+}
+.large-text{
+font-size: 28px;
+}
+.font-type{
+  font-family: Young Serif;
+}
+.yok-artik{
+  color:#7A284E;
+}
+.normal{
+  font-weight: normal;
+}
